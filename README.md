@@ -1,0 +1,8 @@
+[Get Access Token](./1.ACCESS_TOKEN_AQUISITION.MD)
+[Upload File](./2.UPLOAD_FILE.md)
+[Create Vector Store](./3.VECTOR_STORE_CREATION.MD)
+[Create Conversation](./4.CREATE_CONVERSATION.md)
+[Create Agent](./5.CREATE_AGENT.md)
+[Attach Vector Store](./6.ATTACH_VECTOR_STORE_TO_AGENT.md)
+[Response](./7.RESPONSE.md)
+[Get Response Info](./8.GET_METADATA.md)
