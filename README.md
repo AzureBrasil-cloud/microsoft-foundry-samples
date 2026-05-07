@@ -55,23 +55,14 @@ The following are common scenarios that show how Microsoft Foundry can be used:
 ## 🔗 Related Official Resources
 
 - **[Microsoft Foundry Overview](https://learn.microsoft.com/en-us/azure/foundry/)**: Introduction to Microsoft Foundry and how it can be used to create AI agents.
-- **[Publish agents to Microsoft 365 Copilot](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/publish-copilot)**: Step-by-step guide for publishing agents to Microsoft 365 Copilot.
-- **[Publish agents to Microsoft Teams](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/publish-teams)**: Official guide on how to publish Foundry agents to Microsoft Teams.
+- **[Publish Agents to Microsoft Teams and Microsoft Copilot](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/publish-copilot)**: Official guide on how to publish Foundry agents to Microsoft Teams.
+- **[Create a Bot with Azure Bot Services](https://learn.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0)**: How to build bots that can be integrated with Microsoft Teams.
 
 ---
 
 ## Contributing
 
 We welcome contributions to this repository! Whether you want to add more examples, improve documentation, or fix bugs, we appreciate your help.
-
-### Steps to contribute
-
-1. Fork this repository
-2. Create a new branch
-3. Add your changes
-4. Create a pull request describing your changes
-
----
 
 ## 📄 License
 Content in this repository is provided as-is for educational and reference purposes. Please refer to individual projects for specific licensing details.
