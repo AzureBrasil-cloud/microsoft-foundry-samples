@@ -101,7 +101,7 @@ Any adjustments to the agent, whether it's behavior, files, or tools, can be mad
 
 - **[Microsoft Foundry Overview](https://learn.microsoft.com/en-us/azure/foundry/)**: Introduction to Microsoft Foundry and how it can be used to create AI agents.
 - **[Publish Agents to Microsoft Teams and Microsoft Copilot](https://learn.microsoft.com/en-us/azure/foundry/agents/how-to/publish-copilot)**: Official guide on how to publish Foundry agents to Microsoft Teams.
-- **[Create a Bot with Azure Bot Services](https://learn.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-create-bot?view=azure-bot-service-4.0)**: How to build bots that can be integrated with Microsoft Teams.
+- **[Create a Bot with Azure Bot Services](https://learn.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0)**: How to build bots that can be integrated with Microsoft Teams.
 
 ## Additional Documentation 📂
 
